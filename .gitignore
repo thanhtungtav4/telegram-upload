@@ -1,0 +1,62 @@
+# Backup folders
+*backup*/
+*_backup/
+backup_*/
+
+# Backup files
+*.backup
+*.backup-*
+*.broken
+*.duplicate-*
+*_CLEAN.php
+*_OLD.php
+*_BAK.php
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Zip files
+*.zip
+*.tar.gz
+*.rar
+
+# Helper scripts
+create-table*.php
+create-table*.sql
+create-table*.sh
+create-token*.php
+create-token*.sql
+migrate*.sh
+quick-fix*.sh
+cleanup*.sh
+git-cleanup.sh
+
+# Temporary documentation
+FIX_*.md
+CLEANUP_*.md
+TEST_*.md
+*PROPOSAL*.md
+FILES_TO_UPLOAD.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if any)
+node_modules/
+package-lock.json
+
+# WordPress debug
+debug.log
+wp-debug.log
