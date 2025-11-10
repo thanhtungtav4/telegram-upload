@@ -1,9 +1,18 @@
 <?php
 /**
  * Plugin Name: Telegram File Upload
- * Description: Upload and send files to Telegram using the Bot API with Analytics, Categories, and Access Control.
+ * Plugin URI: https://github.com/thanhtungtav4/telegram-upload
+ * Description: Upload and send files to Telegram using the Bot API with Analytics, Categories, and Access Control. Features client-side upload to save 99.99% VPS bandwidth.
  * Version: 2.6.0
  * Author: Thanh Tung
+ * Author URI: https://nttung.dev
+ * License: GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: telegram-upload
+ * Domain Path: /languages
+ * Requires at least: 5.0
+ * Tested up to: 6.4
+ * Requires PHP: 7.4
  */
 
 if (!defined('ABSPATH')) exit;

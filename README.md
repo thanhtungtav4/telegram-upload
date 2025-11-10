@@ -316,3 +316,4 @@ Give a ⭐️ if this project helped you!
 **Made with ❤️ for WordPress & Telegram**
 
 *Last updated: November 9, 2025*
+Author : https://nttung.dev
